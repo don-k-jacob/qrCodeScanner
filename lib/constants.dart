@@ -7,3 +7,5 @@ BoxDecoration buttonDecoration = BoxDecoration(
 );
 
 TextStyle h1black = TextStyle(color: Colors.black, fontSize: 22);
+
+TextStyle textHintStyle = TextStyle(color: Colors.grey[300]);
